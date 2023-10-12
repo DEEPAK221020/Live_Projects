@@ -13,3 +13,6 @@ Woocommerce :-  https://theeternityresorts.com/
 Core php :-  https://ativitaa.in/ , 
              https://snikindia.com/ , 
              https://kolis.co , 
+
+
+https://drive.google.com/drive/folders/1QxA8lBEmqcW6uKShoUdDzxTjNoLKITRz?usp=sharing
